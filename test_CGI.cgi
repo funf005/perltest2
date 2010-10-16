@@ -12,3 +12,4 @@ my $aaa= 10;
 my $aaaaa=5555;
 my @ty=undef;
 my @ggg=undef;
+my $aaaa=undef;
